@@ -43,9 +43,9 @@ function Home2() {
               criteria: 
               <i>
                 <b className="purple">1. Past Accuracy </b>
-                <br>
+                <br />
                 <b className="purple">2. Other sources similar or contradictory in views to this source</b>
-                <br>
+                <br / >
                 <b className="purple">3. The Bias of the Source</b>
               </i>
             </p>
