@@ -37,10 +37,10 @@ function Home2() {
               <i>
                 <b className="purple">
   
-                    3
+                    3 
                 </b>
               </i>
-              criteria: 
+               criteria: 
               <i>
                 <br />
                 <b className="purple">1. Past Accuracy </b>
