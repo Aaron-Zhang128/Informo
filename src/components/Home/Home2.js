@@ -40,19 +40,20 @@ function Home2() {
                     3
                 </b>
               </i>
-              criteria: 
+               criteria: 
               <i>
+                <br />
                 <b className="purple">1. Past Accuracy </b>
                 <br />
                 <b className="purple">2. Other sources similar or contradictory in views to this source</b>
-                <br / >
+                <br />
                 <b className="purple">3. The Bias of the Source</b>
               </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={myImg} className="img-fluid" alt="avatar" style = "border-radius:1000px;"/>
             </Tilt>
           </Col>
         </Row>
