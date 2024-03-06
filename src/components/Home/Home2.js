@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/bot.png";
+import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -40,7 +40,7 @@ function Home2() {
                     3
                 </b>
               </i>
-               criteria: 
+              criteria: 
               <i>
                 <br />
                 <b className="purple">1. Past Accuracy </b>
@@ -53,7 +53,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" style = "border-radius:1000px;"/>
+              <img src={myImg} className="img-fluid" alt="avatar"/>
             </Tilt>
           </Col>
         </Row>
