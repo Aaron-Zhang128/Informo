@@ -8,8 +8,8 @@ function Type() {
         strings: [
             "Misinformation Detector",
             "Verify against scams",
-            "Protect yourself from propaganda"
-            "Good Day!"
+            "Protect yourself from propaganda",
+            "Good Day!",
         ],
         autoStart: true,
         loop: true,
